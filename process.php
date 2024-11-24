@@ -25,7 +25,7 @@ echo "<h3>Generated Weather Description:</h3>";
 echo "<p>" . $weatherDescription . "</p>";
 
 
-
+//openapiai calling
 //limit access of calling api
 
 // include 'openai.php'; // Updated OpenAI function
